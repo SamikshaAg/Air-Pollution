@@ -9,5 +9,5 @@
 
 ### What analysis do?
 * Calculates the mean of a pollutant(sulfate or nitrate) across a specified list of monitors.
-* Reports the number os completely observed cases in each data file.
+* Reports the number of completely observed cases in each data file.
 * Calculates the correlation between sulfate and nitrate for monitor locations where the number of completely observed cases(on all variables) is greater than the threshold.
